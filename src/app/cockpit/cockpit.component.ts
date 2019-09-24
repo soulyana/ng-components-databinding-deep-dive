@@ -14,4 +14,12 @@ export class CockpitComponent implements OnInit {
   ngOnInit() {
   }
 
+  onAddServer() {
+
+  }
+
+  onAddBlueprint() {
+
+  }
+
 }
